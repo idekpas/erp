@@ -13,7 +13,7 @@
     <artifactId>emergency-report-service-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>emergency-report-service-api</name>
-    <description>Module keeping all api informations about Emergency Report Service</description>
+    <description>Module keeping all api information about Emergency Report Service</description>
 
     <dependencies>
         <dependency>
