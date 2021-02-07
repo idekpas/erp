@@ -1,2 +1,2 @@
-# Default project template
-## Default java 11 project template
+# Emergency Report Platform
+## Application responsible for storage and service emergency report calls.
