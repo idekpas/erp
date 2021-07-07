@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>pl.pasekdawid</groupId>
-    <artifactId>default-root</artifactId>
+    <artifactId>emergency-report-platform-root</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>default</name>
-    <description>Default java 11 project template</description>
+    <name>emergency-report-platform</name>
+    <description>Root for Emergency Report Platform Project.</description>
 
     <packaging>pom</packaging>
 
@@ -23,8 +23,8 @@
     </properties>
 
     <modules>
-        <module>default-service</module>
-        <module>default-service-api</module>
+        <module>emergency-report-service</module>
+        <module>emergency-report-service-api</module>
     </modules>
 
     <dependencies>
